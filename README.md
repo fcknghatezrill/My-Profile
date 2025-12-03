@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bluu Giovanoo</h1>
+<h1 align="center">Hi 👋, I'm Bluuskiee</h1>
 <h3 align="center">A passionate frontend developer from Bogor, Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fcknghatezrill&label=fcknghatezrill&color=0e75b6&style=flat" alt="fcknghatezrill" /> </p>
@@ -6,12 +6,6 @@
 - 🔭 I’m currently working on **Discord Project**
 
 - 🌱 I’m currently learning **C++, Javascript, Node JS, and Lua**
-
-- 👯 I’m looking to collaborate on **Roblox Exploiters**
-
-- 🤝 I’m looking for help with **My Team**
-
-- 💬 Ask me about **My Hobby**
 
 - 📫 How to reach me **crystaline028@gmail.com**
 
